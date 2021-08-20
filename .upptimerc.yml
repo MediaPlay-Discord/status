@@ -1,31 +1,54 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: MediaPlay-Discord # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://mediaplay-discord.github.io
+    icon: https://mediaplay-discord.github.io/assets/MPD-Logo.png
+  - name: MediaNext
+    url: https://mn.2021thien.repl.co
+    icon: https://cdn.discordapp.com/avatars/734411577020907622/481b5a4806dec65b78679cd0abe8f0f7.png
+# - name: AltAvy
+#   url: https://<app name>.herokuapp.com
+#   icon: https://cdn.discordapp.com/avatars/833335273323626526/34a7f9dcd05f014e0c96f49729d2322d.png
+  - name: Discord (3rd Party)
+    url: https://discord.gg/nj7rV6p8gS
+    icon: https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /status
+  logoUrl: https://mediaplay-discord.github.io/assets/MPD-Logo.png
+  favicon: https://mediaplay-discord.github.io/assets/MPD-Favicon.ico
+  name: MediaPlay Status
+  introTitle: "See all of our service's status."
+  introMessage: "Updates every 5 minutes."
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://mediaplay-discord.github.io
+    - title: Discord
+      href: https://discord.gg/nj7rV6p8gS
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+  theme: ocean
+  metaTags:
+    - name: theme-color
+      content: #00b0f0
+    - name: description
+      content: "Here you can see the status about MediaPlay's services."
+
+commitMessages:
+  readmeContent: ":newspaper::pencil: Update the summary in `README.md`."
+  summaryJson: ":card_file_box::pencil: Update status summary."
+  statusChange: "$EMOJI $SITE_NAME is $STATUS! ($RESPONSE_CODE in $RESPONSE_TIME ms)"
+  graphsUpdate: ":chart_with_downwards_trend::pencil: Update graphs."
+  commitAuthorName: "MediaPlay GitHub Bot"
+  commitAuthorEmail: "89260926+MediaPlay-Discord-Bot@users.noreply.github.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
