@@ -16,8 +16,8 @@ sites:
 # - name: AltAvy
 #   url: https://<app name>.herokuapp.com
 #   icon: https://cdn.discordapp.com/avatars/833335273323626526/34a7f9dcd05f014e0c96f49729d2322d.png
-    headers:
-      - "User-Agent: MediaPlay uptime"
+#   headers:
+#     - "User-Agent: MediaPlay uptime"
   - name: Discord (3rd Party)
     url: https://discord.gg/nj7rV6p8gS
     icon: https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico
