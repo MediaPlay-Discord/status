@@ -26,7 +26,7 @@
     "uptime": "60.18%",
     "uptimeDay": "89.11%",
     "uptimeWeek": "84.23%",
-    "uptimeMonth": "77.19%",
+    "uptimeMonth": "77.21%",
     "uptimeYear": "60.18%",
     "time": 1038,
     "timeDay": 4850,
@@ -69,18 +69,18 @@
     "icon": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
     "slug": "discord-3rd-party",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 241,
-    "timeWeek": 355,
-    "timeMonth": 349,
-    "timeYear": 344,
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 343,
+    "timeDay": 269,
+    "timeWeek": 348,
+    "timeMonth": 347,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 9
     }
   }
 ]
