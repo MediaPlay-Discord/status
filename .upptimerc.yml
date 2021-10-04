@@ -41,6 +41,8 @@ status-website:
       href: https://mediaplay-discord.github.io
     - title: Discord
       href: https://discord.gg/nj7rV6p8gS
+    - title: Matrix
+      href: https://matrix.to/#/#mediaplay-matrix:matrix.org
     - title: GitHub
       href: https://github.com/$OWNER
   theme: ocean
