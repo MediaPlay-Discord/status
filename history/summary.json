@@ -23,17 +23,18 @@
     "icon": "https://cdn.discordapp.com/avatars/734411577020907622/481b5a4806dec65b78679cd0abe8f0f7.png",
     "slug": "media-next",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptime": "98.99%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "91.30%",
-    "uptimeYear": "98.75%",
+    "uptimeMonth": "91.34%",
+    "uptimeYear": "98.91%",
     "time": 1621,
     "timeDay": 268,
     "timeWeek": 737,
-    "timeMonth": 2605,
+    "timeMonth": 2636,
     "timeYear": 1679,
     "dailyMinutesDown": {
+      "2022-09-19": 0,
       "2022-09-16": 14,
       "2022-09-12": 9,
       "2022-09-11": 752,
@@ -90,7 +91,7 @@
       "2022-06-11": 33,
       "2022-06-10": 35,
       "2022-06-09": 257,
-      "2022-06-07": 827
+      "2022-06-07": 11
     }
   },
   {
