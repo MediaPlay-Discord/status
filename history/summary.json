@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 30,
-    "timeWeek": 93,
-    "timeMonth": 91,
-    "timeYear": 122,
+    "timeDay": 91,
+    "timeWeek": 100,
+    "timeMonth": 93,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -24,16 +24,17 @@
     "slug": "media-next",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "96.67%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "96.66%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.98%",
-    "time": 1823,
-    "timeDay": 4596,
-    "timeWeek": 3627,
+    "time": 1825,
+    "timeDay": 555,
+    "timeWeek": 3766,
     "timeMonth": 2565,
-    "timeYear": 1894,
+    "timeYear": 1883,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-12-02": 45,
       "2022-12-01": 12,
       "2022-11-30": 63,
@@ -83,8 +84,7 @@
       "2022-08-22": 22,
       "2022-08-21": 10,
       "2022-08-19": 38,
-      "2022-08-18": 111,
-      "2022-08-17": 12
+      "2022-08-18": 111
     }
   },
   {
@@ -99,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 415,
-    "timeDay": 393,
-    "timeWeek": 367,
-    "timeMonth": 465,
+    "timeDay": 378,
+    "timeWeek": 381,
+    "timeMonth": 462,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-08-26": 21
