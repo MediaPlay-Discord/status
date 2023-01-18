@@ -23,11 +23,11 @@
     "icon": "https://cdn.discordapp.com/avatars/734411577020907622/481b5a4806dec65b78679cd0abe8f0f7.png",
     "slug": "media-next",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "96.80%",
+    "uptime": "99.68%",
+    "uptimeDay": "96.79%",
     "uptimeWeek": "96.72%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 2037,
     "timeDay": 8387,
     "timeWeek": 5660,
@@ -84,8 +84,7 @@
       "2022-10-21": 36,
       "2022-10-13": 24,
       "2022-10-10": 23,
-      "2022-10-03": 33,
-      "2022-09-27": 65
+      "2022-10-03": 33
     }
   },
   {
