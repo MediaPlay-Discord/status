@@ -23,12 +23,12 @@
     "icon": "https://cdn.discordapp.com/avatars/734411577020907622/481b5a4806dec65b78679cd0abe8f0f7.png",
     "slug": "media-next",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.70%",
+    "uptime": "99.77%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.62%",
-    "time": 2143,
+    "uptimeYear": "99.64%",
+    "time": 2145,
     "timeDay": 10625,
     "timeWeek": 3261,
     "timeMonth": 1971,
@@ -85,8 +85,7 @@
       "2022-12-06": 13,
       "2022-12-03": 17,
       "2022-12-02": 45,
-      "2022-12-01": 12,
-      "2022-11-30": 63
+      "2022-12-01": 12
     }
   },
   {
