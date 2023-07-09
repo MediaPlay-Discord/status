@@ -24,12 +24,12 @@
     "slug": "media-next",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "78.02%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "98.93%",
     "time": 3912,
-    "timeDay": 1107,
+    "timeDay": 1074,
     "timeWeek": 4476,
     "timeMonth": 3218,
     "timeYear": 4259,
@@ -76,7 +76,7 @@
     "slug": "discord-3rd-party",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,6 +86,7 @@
     "timeMonth": 230,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2022-08-26": 21
     }
   }
