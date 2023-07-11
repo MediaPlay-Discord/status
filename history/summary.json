@@ -24,16 +24,17 @@
     "slug": "media-next",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "78.24%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "81.66%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "98.93%",
     "time": 3906,
     "timeDay": 1104,
-    "timeWeek": 4705,
+    "timeWeek": 4232,
     "timeMonth": 3187,
     "timeYear": 4261,
     "dailyMinutesDown": {
+      "2023-07-11": 0,
       "2023-07-08": 14,
       "2023-07-06": 119,
       "2023-07-05": 1440,
@@ -66,7 +67,7 @@
       "2023-04-23": 58,
       "2023-04-22": 211,
       "2023-04-21": 289,
-      "2023-04-20": 35
+      "2023-04-20": 26
     }
   },
   {
