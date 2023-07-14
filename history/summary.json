@@ -6,16 +6,18 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 56,
-    "timeWeek": 81,
+    "timeDay": 81,
+    "timeWeek": 84,
     "timeMonth": 99,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "MediaNext",
