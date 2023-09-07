@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.96%",
+    "uptimeYear": "84.95%",
     "time": 103,
     "timeDay": 38,
     "timeWeek": 74,
     "timeMonth": 84,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2023-09-07": 809,
+      "2023-09-07": 819,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
@@ -80,12 +80,12 @@
     "icon": "https://cdn.discordapp.com/avatars/734411577020907622/481b5a4806dec65b78679cd0abe8f0f7.png",
     "slug": "media-next",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "94.20%",
+    "uptime": "99.42%",
+    "uptimeDay": "94.19%",
     "uptimeWeek": "95.49%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "98.80%",
-    "time": 4266,
+    "time": 4270,
     "timeDay": 3362,
     "timeWeek": 4721,
     "timeMonth": 3884,
@@ -137,7 +137,7 @@
       "2023-04-26": 72,
       "2023-04-25": 154,
       "2023-04-24": 28,
-      "2023-04-23": 48
+      "2023-04-23": 34
     }
   },
   {
