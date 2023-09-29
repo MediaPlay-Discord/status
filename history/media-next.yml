@@ -1,7 +1,7 @@
 url: https://the-bot.thein321.repl.co
-status: up
-code: 200
-responseTime: 1227
-lastUpdated: 2023-09-28T23:06:40.958Z
+status: down
+code: 500
+responseTime: 17571
+lastUpdated: 2023-09-29T07:17:44.115Z
 startTime: 2021-08-20T23:12:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
