@@ -5,18 +5,18 @@
     "icon": "https://mediaplay-discord.github.io/assets/MPD-Logo.png",
     "slug": "website",
     "status": "down",
-    "uptime": "88.68%",
+    "uptime": "88.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.78%",
+    "uptimeYear": "75.70%",
     "time": 100,
     "timeDay": 51,
     "timeWeek": 48,
     "timeMonth": 79,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-10-11": 73,
+      "2023-10-11": 511,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -115,8 +115,8 @@
     "slug": "media-next",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "92.17%",
     "uptimeYear": "98.15%",
     "time": 4362,
@@ -125,6 +125,7 @@
     "timeMonth": 3340,
     "timeYear": 4560,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-10-09": 22,
       "2023-10-08": 18,
       "2023-10-02": 178,
@@ -179,8 +180,7 @@
       "2023-05-03": 656,
       "2023-04-30": 31,
       "2023-04-29": 23,
-      "2023-04-28": 88,
-      "2023-04-27": 14
+      "2023-04-28": 88
     }
   },
   {
