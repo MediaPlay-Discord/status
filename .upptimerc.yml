@@ -5,13 +5,11 @@ repo: status
 sites:
   - name: MediaPlay Website
     url: https://mediaplay.linerly.xyz
+    assignees:
+      - Linerly
   - name: MediaNext
-    url: http://ger2-1.deploy.sbs
-    port: 1709
-
-assignees:
-   - Linerly
-
+    url: 'http://ger2-1.deploy.sbs:1709'
+    
 status-website:
   cname: status.mediaplay.linerly.xyz
   logoUrl: https://avatars.githubusercontent.com/u/75937432
