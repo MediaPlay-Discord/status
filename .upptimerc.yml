@@ -9,6 +9,9 @@ sites:
     url: http://ger2-1.deploy.sbs
     port: 1709
 
+assignees:
+   - Linerly
+
 status-website:
   cname: status.mediaplay.linerly.xyz
   logoUrl: https://avatars.githubusercontent.com/u/75937432
