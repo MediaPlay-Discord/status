@@ -11,7 +11,7 @@ sites:
     url: 'http://mn.mediaplay.linerly.xyz:1709'
     
 status-website:
-  cname: status.mediaplay.linerly.xyz
+  cname: status-mediaplay.linerly.xyz
   logoUrl: https://avatars.githubusercontent.com/u/75937432
   name: MediaPlay Status
   introTitle: "See the status for MediaPlay's services."
