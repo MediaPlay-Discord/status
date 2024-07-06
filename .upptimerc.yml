@@ -13,6 +13,7 @@ sites:
 status-website:
   cname: status-mediaplay.linerly.xyz
   logoUrl: https://avatars.githubusercontent.com/u/75937432
+  favicon: https://mediaplay.linerly.xyz/assets/MediaPlay_Logo.png
   name: MediaPlay Status
   introTitle: "See the status for MediaPlay's services."
   themeUrl: https://status-mediaplay.linerly.xyz/custom.css
