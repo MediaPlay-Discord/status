@@ -25,7 +25,7 @@
     "url": "http://mn.mediaplay.linerly.xyz:1709",
     "icon": "https://icons.duckduckgo.com/ip3/mn.mediaplay.linerly.xyz.ico",
     "slug": "media-next",
-    "status": "up",
+    "status": "down",
     "uptime": "63.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.56%",
@@ -37,6 +37,7 @@
     "timeMonth": 363,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-10-22": 291,
       "2024-10-21": 1165,
       "2024-09-03": 662,
