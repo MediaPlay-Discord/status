@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 90,
-    "timeWeek": 211,
-    "timeMonth": 232,
+    "timeDay": 530,
+    "timeWeek": 232,
+    "timeMonth": 245,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-03-21": 23,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mn.mediaplay.linerly.xyz.ico",
     "slug": "media-next",
     "status": "down",
-    "uptime": "22.77%",
+    "uptime": "22.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.77%",
-    "time": 375,
-    "timeDay": 255,
-    "timeWeek": 338,
-    "timeMonth": 306,
-    "timeYear": 375,
+    "uptimeYear": "22.71%",
+    "time": 374,
+    "timeDay": 234,
+    "timeWeek": 336,
+    "timeMonth": 302,
+    "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-07-02": 83,
+      "2025-07-03": 83,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -323,8 +324,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1164,
-      "2024-07-17": 16,
-      "2024-07-03": 15
+      "2024-07-17": 16
     }
   }
 ]
