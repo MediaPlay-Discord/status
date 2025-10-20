@@ -4,7 +4,7 @@
     "url": "https://mediaplay.linerly.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mediaplay.linerly.xyz.ico",
     "slug": "media-play-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 304,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-03-21": 23
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mn.mediaplay.linerly.xyz.ico",
     "slug": "media-next",
     "status": "down",
-    "uptime": "17.48%",
+    "uptime": "17.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.26%",
+    "uptimeYear": "4.09%",
     "time": 366,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-10-20": 82,
+      "2025-10-20": 934,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
