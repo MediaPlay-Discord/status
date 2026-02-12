@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 276,
-    "timeDay": 291,
-    "timeWeek": 261,
-    "timeMonth": 359,
-    "timeYear": 292,
+    "timeDay": 301,
+    "timeWeek": 275,
+    "timeMonth": 348,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2025-11-17": 16,
       "2025-11-10": 32,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mn.mediaplay.linerly.xyz.ico",
     "slug": "media-next",
     "status": "down",
-    "uptime": "14.09%",
+    "uptime": "14.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 332,
+    "time": 333,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-02-11": 127,
+      "2026-02-12": 121,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -402,8 +403,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 1440,
-      "2025-02-12": 1440
+      "2025-02-13": 1440
     }
   }
 ]
