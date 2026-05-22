@@ -6,15 +6,15 @@
     "slug": "media-play-website",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "80.89%",
+    "uptimeDay": "94.93%",
     "uptimeWeek": "96.46%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.92%",
     "time": 330,
-    "timeDay": 1505,
-    "timeWeek": 766,
-    "timeMonth": 607,
-    "timeYear": 346,
+    "timeDay": 395,
+    "timeWeek": 711,
+    "timeMonth": 590,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2026-05-21": 275,
       "2026-05-19": 82,
@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mn.mediaplay.linerly.xyz.ico",
     "slug": "media-next",
     "status": "down",
-    "uptime": "12.06%",
+    "uptime": "12.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-05-21": 280,
+      "2026-05-22": 207,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -403,8 +404,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   }
 ]
